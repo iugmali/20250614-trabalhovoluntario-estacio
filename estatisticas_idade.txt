@@ -1,0 +1,27 @@
+Distribuição de frequência por faixa etária:
+faixa_etaria
+0-17       0
+18-29     12
+30-39      3
+40-49     43
+50-59     90
+60-69    201
+70-79    250
+80-89     86
+90-99     10
+100+       1
+Name: count, dtype: int64
+
+Estatísticas da idade:
+count    696.000000
+mean      67.702586
+std       12.329962
+min       21.000000
+25%       60.000000
+50%       69.000000
+75%       76.000000
+max      103.000000
+Name: idade, dtype: float64
+
+Total de clientes com data de nascimento válida: 696
+Total de clientes sem data de nascimento: 81
